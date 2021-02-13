@@ -6,12 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
-  - Angular, Django and Hyperledger based app for hackathon.
-  - Angular, Firebase based app for client.
+  - Salesforce Development
+  - PowerBI
 - 🌱 I’m currently learning
-  - CSS preprocessors
-  - UX
-  - Docker
+  - UFT
+  - Salesforce Apex
 - 👯 I’m looking to collaborate on anything code.
 - 💬 Ask me about
   - productivity
